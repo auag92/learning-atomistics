@@ -8,7 +8,7 @@ tagline:             "All models are wrong, but some are useful"
 description:         'A repository for discussion, resources and other content related our study'
 url:                 http://auag92.github.io
 baseurl:             /learning-atomistics
-paginate:            10
+paginate:            1
 
 # About/contact
 author:
@@ -17,7 +17,7 @@ author:
   email:             apaar92@gmail.com
 
 # Custom vars
-version:             1.0.0
+version:             0.0.1
 
 gems: ["emoji_for_jekyll"]
 
