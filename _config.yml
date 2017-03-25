@@ -1,19 +1,13 @@
 # Dependencies
 markdown:            redcarpet
-highlighter:         pygments
-
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
+highlighter:         rouge
 
 # Setup
 title:               Chocolate Fudge
 tagline:             "The mind's meanderings"
 description:         'Random thoughts, wierd insights and wonkish rants.'
 url:                 http://auag92.github.io
-baseurl:             /blog
+baseurl:             /learning-atomistics
 paginate:            10
 
 # About/contact
