@@ -3,9 +3,9 @@ markdown:            redcarpet
 highlighter:         rouge
 
 # Setup
-title:               Chocolate Fudge
-tagline:             "The mind's meanderings"
-description:         'Random thoughts, wierd insights and wonkish rants.'
+title:               Project Blog
+tagline:             "All models are wrong, but some are useful"
+description:         'A repository for discussion, resources and other content related our study'
 url:                 http://auag92.github.io
 baseurl:             /learning-atomistics
 paginate:            10
@@ -13,7 +13,7 @@ paginate:            10
 # About/contact
 author:
   name:              Apaar Shanker
-  url:               https://twitter.com/apaarshanker
+  url:               https://www.linkedin.com/in/apaar-shanker-47098252/
   email:             apaar92@gmail.com
 
 # Custom vars
@@ -21,5 +21,5 @@ version:             1.0.0
 
 gems: ["emoji_for_jekyll"]
 
-timezone: Asia/Kolkata
+timezone: America/New_York
 future: False
